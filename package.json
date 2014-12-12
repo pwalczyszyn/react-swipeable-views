@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/pwalczyszyn/react-swipeable-views/issues"
   },
-  "homepage": "https://github.com/pwalczyszyn/react-swipeable-views"
+  "homepage": "https://github.com/pwalczyszyn/react-swipeable-views",
+  "dependencies": {
+    "react-swipeable": "^2.0.0",
+    "react-tween-state": "0.0.4"
+  },
+  "peerDependencies": {
+    "react": "^0.12.1"
+  }
 }

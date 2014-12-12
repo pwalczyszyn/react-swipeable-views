@@ -1,0 +1,26 @@
+{
+  "name": "react-swipeable-views",
+  "version": "1.0.0",
+  "description": "Touch enabled container for horizontally swipeable views.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pwalczyszyn/react-swipeable-views.git"
+  },
+  "keywords": [
+    "react",
+    "swipeable",
+    "views",
+    "slide",
+    "touch"
+  ],
+  "author": "Piotr Walczyszyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pwalczyszyn/react-swipeable-views/issues"
+  },
+  "homepage": "https://github.com/pwalczyszyn/react-swipeable-views"
+}
